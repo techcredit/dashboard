@@ -1,0 +1,10 @@
+{
+  "name": "dashboard",
+  "version": "0.1.0",
+  "description": "root workspace for dashboard related packages",
+  "repository": "git@github.com:techcredit/dashboard.git",
+  "author": "Fabricio C Zuardi <fabricio@fabricio.org>",
+  "license": "AGPL v3.0",
+  "private": true,
+  "scripts": {}
+}
