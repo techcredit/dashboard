@@ -1,14 +1,14 @@
 importers:
   .:
     devDependencies:
-      bs-platform: 5.1.0-dev.4
+      bs-platform: 5.1.0-dev.5
     specifiers:
-      bs-platform: 5.1.0-dev.4
+      bs-platform: 5.1.0-dev.5
 lockfileVersion: 5.1
 packages:
-  /bs-platform/5.1.0-dev.4:
+  /bs-platform/5.1.0-dev.5:
     dev: true
     hasBin: true
     requiresBuild: true
     resolution:
-      integrity: sha512-5nEgBmpVEH2xjgOhSQJVjiOv6MgASsPa3jxf19AbhGuk+yDAE6lkkAfgYp3W69PYz654cvGQuQfulebJtUM5sA==
+      integrity: sha512-YtxXWA6Cn9SrB0aIFXAtErvj+z3oQlkE0hrm4PkqXuIGcRXexsoToNb/VNs0osE99dEFxc88MxPSrl7LUEpwMw==
