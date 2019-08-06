@@ -1,4 +1,6 @@
 packages:
+  # root workspace
+  - '.'
   # all packages in subdirs of packages/
   - 'packages/**'
 
