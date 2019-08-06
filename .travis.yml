@@ -1,0 +1,11 @@
+language: node_js
+
+node_js:
+  - "node"
+  - "lts/*"
+
+before_install:
+  - curl -L https://unpkg.com/@pnpm/self-installer | node
+
+install:
+  - pnpm install
