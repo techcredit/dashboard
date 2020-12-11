@@ -8,6 +8,6 @@
   "private": true,
   "scripts": {},
   "devDependencies": {
-    "bs-platform": "5.1.0-dev.5"
+    "bs-platform": "8.4.2"
   }
 }
